@@ -6,5 +6,6 @@ Buah buahan
 -jambumelon
 -apel singapura
 -kecap batagor
+-mawar
 -buah zakar
 
